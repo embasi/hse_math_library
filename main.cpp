@@ -8,8 +8,6 @@
 
 
 int main() {
-
-	cout << "This file is used with Git" << endl;
 	
 	string file1 = "loadings.txt";
 	string file2 = "test.txt";
